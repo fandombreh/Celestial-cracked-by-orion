@@ -8,7 +8,7 @@
 ]]
 
 -- No key system – direct load
-
+-- i own u guys lmaooo
 -- Notification Library (kept for hub notifications)
 _G.ActiveNotifications = {}
 local TweenService = game:GetService("TweenService")
